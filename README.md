@@ -10,13 +10,13 @@ BucpTSF is an information-density-driven structured framework for time-series fo
 
 ## Framework Architecture
 
-![BucpTSF Framework Architecture](./f2.pdf)
+![BucpTSF Framework Architecture](./f2_01.png)
 
 *Figure 2. Overall architecture of BucpTSF.*
 
 ## Motivation
 
-![BucpTSF Research Motivation](./f3.pdf)
+![BucpTSF Research Motivation](./f3_01.png)
 
 *Figure 3. Motivation and information-density-driven modeling principle of BucpTSF.*
 
